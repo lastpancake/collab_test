@@ -9,3 +9,11 @@ body {
     max-width: 800px;
     padding: 2em 2em 4em;
 }
+
+
+
+h1 {
+  font-size: 350px;
+  color: #525252;
+  text-align: center;
+}
