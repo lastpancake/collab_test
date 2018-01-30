@@ -3,18 +3,9 @@ body {
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     color: #545454;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 80px;
     line-height: 1.5;
     margin: 0 auto;
     max-width: 800px;
     padding: 2em 2em 4em;
     font-style: italic;
-}
-
-
-
-.history h1 {
-  font-size: 100px;
-  color: #525252;
-  text-align: center;
 }
